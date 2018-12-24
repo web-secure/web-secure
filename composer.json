@@ -6,8 +6,5 @@
     "require": {
         "php": ">=7.2",
         "web-secure/password-hashing": "^1.3"
-    },
-    "require-dev": {
-        "phpunit/phpunit": "^7.5"
     }
 }
