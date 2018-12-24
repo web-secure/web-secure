@@ -1,0 +1,13 @@
+{
+    "name": "web-secure/web-secure",
+    "description": "Install all web secure packages.",
+    "keywords": [],
+    "license": "MIT",
+    "require": {
+        "php": ">=7.2",
+        "web-secure/password-hashing": "^1.3"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7.5"
+    }
+}
